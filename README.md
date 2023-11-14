@@ -14,7 +14,7 @@
 
  The highest scoring batsman was predicted to be: 
  
- The highest wicket taking bowler was predicted to be: 
+ The highest wicket taking bowler was predicted to be: **Mohammed Shami**
 
 ### Task 2: Predicting the Finalist Teams and Players
 
