@@ -53,6 +53,6 @@ We predicted that India and Australia are going to be the finalists and the team
 We used datasets from Kaggel, Cricsheet, ICC Websites and Cricmetric
 
 ## CONTRIBUTIONS
-- Task 1: Jalp Patel (Batsman) and Suyash Bhagat (Bowler)
+- Task 1: Jalp Patel (Batsman), Suyash Bhagat and Dhyey Vacchani (Bowler)
 - Task 2: Vedant Pandya and Kalhar Patel
 - Task 3: Vedant Pandya and Kalhar Patel
